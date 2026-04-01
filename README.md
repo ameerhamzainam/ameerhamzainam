@@ -1,5 +1,6 @@
+# Ameer Hamza — Full Stack Engineer
 # 💫 About Me:
-I'm currently working as MERN Stack developer and Next JS developer<br>I;m looking to collaborate on open source projects <br>im looking for help with any open oppurtunites for me<br>I'm Currently learning my stack more and more<br>ask me about tech
+🔭 I’m currently working on<br>Building scalable full-stack applications using the MERN stack and NextJS.<br><br>👯 I’m looking to collaborate on<br>Open-source projects, full-stack web apps. Love working with teams that value clean architecture, test-driven development, and agile delivery.<br><br>🤝 I’m looking for help with<br>PostgreSQL optimization, NextJs architecture patterns, Redux Toolkit state management, or MERN deployment strategies. Always happy to pair up or review code!<br><br>🌱 I’m currently learning<br>Advanced NextJs, AuthJS, and PostgreSQL indexing strategies. Also diving into CI/CD pipelines for full-stack apps.<br><br>💬 Ask me about<br>Software architecture, debugging complex backend frontend issues, or how to structure a scalable MERN + NextJs app. I’m also happy to chat about DevOps, testing, or career growth in tech.
 
 
 ## 🌐 Socials:
